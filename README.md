@@ -65,6 +65,8 @@ The bot transforms simple greetings and fruit queries into inspiring, educationa
 - **Response Generation** ➔ SimpleBrain (`simplebrain.py`)
 - **Optional Future Module** ➔ Suggest Healthy Habits (ML)
 
+![image](https://github.com/user-attachments/assets/66452f9e-2af5-4a80-b18c-bef3bd5d3cc0)
+
 > 📦 Logging Module records user queries for analysis.
 
 ---
