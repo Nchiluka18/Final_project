@@ -65,6 +65,7 @@ The bot transforms simple greetings and fruit queries into inspiring, educationa
 - **Response Generation** ➔ SimpleBrain (`simplebrain.py`)
 - **Optional Future Module** ➔ Suggest Healthy Habits (ML)
 
+
 ![image](https://github.com/user-attachments/assets/66452f9e-2af5-4a80-b18c-bef3bd5d3cc0)
 
 > 📦 Logging Module records user queries for analysis.
@@ -79,11 +80,16 @@ The bot transforms simple greetings and fruit queries into inspiring, educationa
 - **Matching Engine** queries **KnowledgeBase (CSV)**.
 - **Bot** responds back to the user.
 
+![image](https://github.com/user-attachments/assets/d47458ac-f60b-4888-b4f6-496c127c6a11)
+
+
 ### Class Diagram
 - `DiscordBot` → Communicates with users via Discord.
 - `MatchingEngine` → Processes and matches inputs.
 - `KnowledgeBase` → Manages fruit knowledge rules.
 - `SimpleBrain` → Crafts friendly greeting and health responses.
+  
+![image](https://github.com/user-attachments/assets/d3aab658-0935-4b26-99c7-3baaa9f86e44)
 
 ---
 
